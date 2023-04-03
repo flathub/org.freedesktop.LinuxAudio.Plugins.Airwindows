@@ -13,8 +13,30 @@
     <update_contact>_hub_AT_figuiere_net_</update_contact>
     <url type="homepage">https://github.com/hannesbraun/airwindows-lv2</url>
     <releases>
-        <release version="18.0" date="2023-04-03"/>
-        <release version="16.0" date="2023-02-03"/>
-        <release version="14.0" date="2022-12-09"/>
+      <release version="18.0" date="2023-04-03">
+        <description>
+          <p>Added Golem 2.0</p>
+        </description>
+      </release>
+      <release version="16.0" date="2023-02-03">
+        <description>
+          <p>Added:</p>
+          <ul>
+            <li>PowerSag 2.0</li>
+            <li>PowerSag2 2.0</li>
+          </ul>
+        </description>
+      </release>
+      <release version="14.0" date="2022-12-09">
+        <description>
+          <p>Added:</p>
+          <ul>
+            <li>Fracture 2.0</li>
+            <li>Infinity 2.0</li>
+            <li>Infinity2 2.0</li>
+            <li>MatrixVerb 2.0</li>
+          </ul>
+        </description>
+      </release>
     </releases>
 </component>
