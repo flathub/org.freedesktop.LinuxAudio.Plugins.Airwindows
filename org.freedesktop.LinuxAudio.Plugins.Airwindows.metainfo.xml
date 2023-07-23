@@ -11,9 +11,32 @@
     <project_license>MIT</project_license>
     <metadata_license>CC0-1.0</metadata_license>
     <update_contact>_hub_AT_figuiere_net_</update_contact>
-    <url type="homepage">https://github.com/hannesbraun/airwindows-lv2</url>
+    <url type="homepage">https://sr.ht/~hannes/airwindows-lv2/</url>
     <releases>
-      <release version="20.0" date="2023-07-23"/>
+      <release version="20.0" date="2023-07-22">
+        <url>https://git.sr.ht/~hannes/airwindows-lv2/refs/v20.0</url>
+        <description>
+          <p>This release contains the following new plugins:</p>
+          <ul>
+            <li>BitShiftPan</li>
+            <li>BrightAmbience</li>
+            <li>BrightAmbience2</li>
+            <li>BrightAmbience3</li>
+            <li>ClipSoftly</li>
+            <li>Console0Channel</li>
+            <li>Console0Buss</li>
+            <li>EQ (Equalizer)</li>
+            <li>PitchNasty</li>
+            <li>SampleDelay</li>
+            <li>Spiral2</li>
+          </ul>
+          <p>Other fixes:</p>
+          <ul>
+            <li>Improve description for Verbity</li>
+            <li>Make sources C99 compliant</li>
+          </ul>
+        </description>
+      </release>
       <release version="18.0" date="2023-04-03">
         <description>
           <p>Added Golem 2.0</p>

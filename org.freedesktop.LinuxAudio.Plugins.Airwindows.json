@@ -30,7 +30,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/hannesbraun/airwindows-lv2.git",
+                    "url": "https://git.sr.ht/~hannes/airwindows-lv2",
                     "tag": "v20.0",
                     "commit": "17376c95fab3a4a3e79c189e4a0b1b527415760e",
                     "x-checker-data": {
