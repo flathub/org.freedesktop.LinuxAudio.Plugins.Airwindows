@@ -13,7 +13,30 @@
     <update_contact>_hub_AT_figuiere_net_</update_contact>
     <url type="homepage">https://sr.ht/~hannes/airwindows-lv2/</url>
     <releases>
-      <release version="22.0" date="2023-08-02"/>
+      <release version="22.0" date="2023-08-02">
+        <url>https://git.sr.ht/~hannes/airwindows-lv2/refs/v22.0</url>
+        <description>
+          <p>This release contains the following new plugins:</p>
+          <ul>
+            <li>Console8BussHype</li>
+            <li>Console8BussIn</li>
+            <li>Console8BussOut</li>
+            <li>Console8ChannelHype</li>
+            <li>Console8ChannelIn</li>
+            <li>Console8ChannelOut</li>
+            <li>Console8LiteBuss</li>
+            <li>Console8LiteChannel</li>
+            <li>Console8SubHype</li>
+            <li>Console8SubIn</li>
+            <li>Console8SubOut</li>
+            <li>EverySlew</li>
+            <li>GlitchShifter</li>
+            <li>GoldenSlew</li>
+            <li>LilAmp</li>
+            <li>PlatinumSlew</li>
+          </ul>
+        </description>
+      </release>
       <release version="20.0" date="2023-07-22">
         <url>https://git.sr.ht/~hannes/airwindows-lv2/refs/v20.0</url>
         <description>
