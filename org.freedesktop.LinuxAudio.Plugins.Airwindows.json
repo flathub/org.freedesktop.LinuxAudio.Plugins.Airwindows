@@ -31,8 +31,8 @@
                 {
                     "type": "git",
                     "url": "https://git.sr.ht/~hannes/airwindows-lv2",
-                    "tag": "v22.0",
-                    "commit": "5adcea509f92b83de5f140215b52d8ceffbc82cd",
+                    "tag": "v24.0",
+                    "commit": "3ef8042455a9de06bfc165c986397bddd944b78b",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$",
