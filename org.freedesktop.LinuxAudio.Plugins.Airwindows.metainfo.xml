@@ -13,7 +13,32 @@
     <update_contact>_hub_AT_figuiere_net_</update_contact>
     <url type="homepage">https://sr.ht/~hannes/airwindows-lv2/</url>
     <releases>
-      <release version="28.0" date="2024-03-05"/>
+      <release version="28.0" date="2024-03-05">
+        <description>
+          <p>This release contains the following new plugins:</p>
+          <ul>
+            <li>ConsoleLABuss</li>
+            <li>ConsoleLAChannel</li>
+            <li>Drive</li>
+            <li>FinalClip</li>
+            <li>Hull2</li>
+            <li>kPlateA</li>
+            <li>kPlateB</li>
+            <li>kPlateC</li>
+            <li>kPlateD</li>
+            <li>Luxor</li>
+            <li>PurestConsole3Buss</li>
+            <li>PurestConsole3Channel</li>
+            <li>RawGlitters</li>
+            <li>RawTimbers</li>
+            <li>Reverb</li>
+            <li>ShortBuss</li>
+            <li>TPDFDither</li>
+            <li>XLowpass</li>
+            <li>ZOutputStage</li>
+          </ul>
+        </description>
+      </release>
       <release version="26.2" date="2023-12-05">
         <url>https://git.sr.ht/~hannes/airwindows-lv2/refs/v26.2</url>
         <description>
