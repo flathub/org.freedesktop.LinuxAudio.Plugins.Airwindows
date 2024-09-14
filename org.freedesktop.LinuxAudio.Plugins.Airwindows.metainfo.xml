@@ -14,7 +14,20 @@
     <url type="homepage">https://sr.ht/~hannes/airwindows-lv2/</url>
     <releases>
       <release version="30.0" date="2024-09-14">
-         <description></description>
+        <description>
+          <p>This release contains the following new plugins:</p>
+          <ul>
+            <li>ADClip8</li>
+            <li>Air2</li>
+            <li>Air3</li>
+            <li>CrunchyGrooveWear</li>
+            <li>Overheads</li>
+            <li>Pop</li>
+            <li>Pop2</li>
+            <li>PurestFade</li>
+          </ul>
+          <p>Fixes in Console6</p>
+        </description>
       </release>
       <release version="28.0" date="2024-03-05">
         <description>
