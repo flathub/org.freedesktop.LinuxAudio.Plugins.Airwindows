@@ -13,8 +13,11 @@
     <update_contact>_hub_AT_figuiere_net_</update_contact>
     <url type="homepage">https://sr.ht/~hannes/airwindows-lv2/</url>
     <releases>
-      <release version="38.0" date="2026-06-10">
+      <release version="40.0" date="2026-09-01">
          <description></description>
+      </release>
+      <release version="38.0" date="2026-06-10">
+         <description/>
       </release>
       <release version="36.0" date="2026-03-24">
          <description/>
