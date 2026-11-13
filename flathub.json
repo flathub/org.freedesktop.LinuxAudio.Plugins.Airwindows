@@ -1,3 +1,5 @@
 {
+    "disable-external-data-checker": true,
+    "end-of-life": "This branch is no longer maintained.",
     "skip-icons-check": true
 }
